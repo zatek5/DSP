@@ -6,3 +6,5 @@ Sayısal Görüntü İşleme Dersi
 RGB ve YIQ Renk Uzaylarında Kenar Tespiti Uygulaması
 
 Matlab Kodları ve Açıklama Videosu
+
+https://youtu.be/bm-ZGQHyLus
